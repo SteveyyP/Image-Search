@@ -6,11 +6,11 @@
 This repo is an image to image search using the CIFAR-10 dataset.
 
 ## Requirements
-- tensorflow
-- openCV
-- pickle
-- numpy
-- Flask
+- tensorflow == 1.14.0
+- openCV == 3.4.2
+- numpy == 1.17.2
+- Flask == 1.1.1
+- tqdm == 4.41.1
 
 ## Run Repo
 1. Clone or download this repo
